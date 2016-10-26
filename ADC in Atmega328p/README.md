@@ -9,6 +9,7 @@
 * Jumper Wires
 
 
+
 ##Summary:
 I made this to get power and control of every register using AVR-C and the ease of Arduino’s premade circuit along with FTDI chip. I used few simple commands to compile and upload the AVR-C code on my Arduino. By using Arduino I didn’t had worry about FTDI chip, reference for ADC voltage and other peripheral circuitry and by using AVR-C I had control over each and every register which isn’t possible while working with Arduino IDE.
 
